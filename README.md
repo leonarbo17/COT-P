@@ -1,2 +1,2 @@
-# SliceOfNightmare
-Horror videogame
+# COT-P
+Unity 3D videogame
