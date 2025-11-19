@@ -1,0 +1,63 @@
+# ==========================
+# Unity - Essential Gitignore
+# ==========================
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# MemoryCaptures and Recordings
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Visual Studio / IDE files
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# Rider
+/[Aa]ssets/Plugins/Editor/JetBrains*
+*.DotSettings.user
+
+# Crash and debug reports
+sysinfo.txt
+mono_crash.*
+
+# Addressables temp files
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+/[Aa]ssets/Addressables_Temp*
+
+# Visual Scripting auto-generated files
+/[Aa]ssets/Unity.VisualScripting.Generated/
+
+# Auto-generated test scenes
+/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Builds / packages (compiled game files)
+*.apk
+*.aab
+*.app
+*.unitypackage
+*.unitypackage.meta
+
+# Optional: ignore Blender temp files
+*.blend1
+*.blend1.meta
+
+# ==========================
+# Keep only essential folders
+# ==========================
+/Assets/
+/Packages/
+/ProjectSettings/
+
